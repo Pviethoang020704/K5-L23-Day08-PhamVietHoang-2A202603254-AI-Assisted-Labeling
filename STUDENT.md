@@ -1,11 +1,11 @@
 # Thông tin học viên
 
-- Họ và tên: Pham Viet Hoang (tên không dấu theo tên repo)
+- Họ và tên: Pham Viet Hoang 
 - MSHV: 2A202603254
 - Lớp (L2 / L3 / khác): K5-L23 
 - Tài khoản GitHub: Pviethoang020704
 - Repo bài nộp (URL): https://github.com/Pviethoang020704/K5-L23-Day08-PhamVietHoang-2A202603254-AI-Assisted-Labeling
-- Commit chốt bài (hash): Chưa có; chưa commit theo yêu cầu.
+- Commit chốt bài (hash): 2892f0f208f71625caadebd6f5c369794cd08147
 - Máy: Windows
 - CVAT (Docker): 2.81.0
 
